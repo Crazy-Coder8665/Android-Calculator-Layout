@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     TextView calculationTV;
     TextView resultsTV;
     String calc="";
-    Stack calculation = new Stack()
+    Stack calculation = new Stack();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
